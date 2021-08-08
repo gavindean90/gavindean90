@@ -4,4 +4,4 @@
 
 - I am Gavin.
 - I am interested in Linux, automation and food.
-- I am currently learning how to make more of my life defined as code. 
+- I am currently experimenting with making more of my life defined as code. 
